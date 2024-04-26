@@ -45,7 +45,6 @@
     "hot-hook": "^0.2.1",
     "pino-pretty": "^11.0.0",
     "prettier": "^3.2.5",
-    "ts-node": "^10.9.2",
     "typescript": "^5.4.5",
     "vite": "^5.2.10"
   },
@@ -60,7 +59,8 @@
     "@adonisjs/vite": "^2.0.2",
     "@vinejs/vine": "^2.0.0",
     "edge.js": "^6.0.2",
-    "reflect-metadata": "^0.2.2"
+    "reflect-metadata": "^0.2.2",
+    "ts-node": "^10.9.2"
   },
   "hotHook": {
     "boundaries": [
