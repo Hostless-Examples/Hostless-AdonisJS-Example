@@ -3,7 +3,7 @@
   "compilerOptions": {
     "rootDir": "./",
     "outDir": "./build",
-    "module": "ESNext",
+    "module": "es2020",
     "moduleResolution": "node"
   },
 }
