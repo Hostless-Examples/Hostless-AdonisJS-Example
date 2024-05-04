@@ -6,4 +6,12 @@
     "module": "es2020",
     "moduleResolution": "node"
   },
+  "ts-node": {
+    "transpileOnly": true,
+    "compilerOptions": {
+      "module": "ESNext",
+      "esModuleInterop": true
+    },
+    "esm": true // <--- this is the most important part
+  },
 }
