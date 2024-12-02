@@ -19,7 +19,7 @@ RUN npm run build
 # Expose application port
 EXPOSE 8000
 
-# Set environment variables
+# Set environment variables, use your .env in this case
 ENV NODE_ENV=production
 ENV PORT=8000
 ENV HOST='0.0.0.0'
